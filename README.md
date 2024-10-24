@@ -11,7 +11,7 @@ A **Film Junky Union**, uma nova comunidade para entusiastas de filmes clássico
 - **Scikit-learn**: Biblioteca para aprendizado de máquina e avaliação de modelos.
 - **LightGBM**: Biblioteca para classificação e regressão de alto desempenho.
 
-  ## Descrição dos Dados
+## Descrição dos Dados
 Os dados são armazenados no arquivo `imdb_reviews.tsv`. 
 - **review**: texto da resenha.
 - **pos**: alvo, onde '0' indica negativo e '1' indica positivo.
@@ -50,7 +50,7 @@ Os dados são armazenados no arquivo `imdb_reviews.tsv`.
    - Compilação das descobertas e recomendações para futuras implementações.
 
 ## Conclusão
-Neste projeto, buscou-se desenvolver modelos de classificação de sentimentos para resenhas de filmes, com o objetivo de atingir um valor F1 de pelo menos 0,85. Utilizamos três abordagens principais, descritas a seguir, com uma comparação detalhada de suas performances:
+Neste projeto, buscou-se desenvolver modelos de classificação de sentimentos para resenhas de filmes, com o objetivo de atingir um valor F1 de pelo menos 0,85. Utilizou-se três abordagens principais, descritas a seguir, com uma comparação detalhada de suas performances:
 
 - **Modelo 1 - NLTK, TF-IDF e Regressão Linear**: F1-Score de 0,88. Acurácia de 94% nas resenhas manuais.
   
