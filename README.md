@@ -1,7 +1,7 @@
 # Projeto Film Junky Union: Classificação de Resenhas de Filmes
 
 ## Descrição do Projeto
-A **Film Junky Union**, uma nova comunidade para entusiastas de filmes clássicos, está desenvolvendo um sistema para filtrar e categorizar resenhas de filmes. O objetivo deste projeto é treinar um modelo para detectar automaticamente resenhas negativas. Utilizando um conjunto de dados de resenhas de filmes do IMDB com rotulagem de polaridade, o modelo deve classificar as resenhas como positivas ou negativas, atingindo um valor F1 de pelo menos 0,85.
+A **Film Junky Union** (empresa fictícia), está desenvolvendo um sistema para filtrar e categorizar resenhas de filmes. O objetivo deste projeto é treinar um modelo para detectar automaticamente resenhas negativas. Utilizando um conjunto de dados de resenhas de filmes do IMDB com rotulagem de polaridade, o modelo deve classificar as resenhas como positivas ou negativas.
 
 ## Ferramentas e Bibliotecas Utilizadas
 - **Python**: Linguagem principal utilizada para a análise.
